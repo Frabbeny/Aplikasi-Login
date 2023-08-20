@@ -12,3 +12,7 @@ Alur fitur login:
 3. Memvalidasi pengguna dengan deteksi wajah.
 4. Memasukkan nama ibu untuk validasi.
 5. Menampilkan halaman home.
+
+Tes update squash 1
+Tes update squash 2
+Tes update squash 3
